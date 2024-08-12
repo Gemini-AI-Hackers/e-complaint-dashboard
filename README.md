@@ -10,8 +10,11 @@ pinned: false
 ---
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
+#### Test Credentials
+email: test@test.com
+password: 123456
 
-#### Be Heard
+### Be Heard: Zwakala, an AI-Powered civic engagement platorm
 Our innovative application leverages cutting-edge AI technology to bridge the gap between citizens and local government, fostering collaborative problem-solving for various socio-economic challenges in Durban.
 
 ### Key Features
@@ -25,7 +28,7 @@ Our innovative application leverages cutting-edge AI technology to bridge the ga
     Contextual Suggestions: Gemini analyzes chat history stored in Firebase to provide personalized, context-based suggestions to users.
 
 #### For Municipal Officials
-
+   
     Real-Time Prioritization: Live dashboards powered by Google Gemini enable officials to receive and prioritize concerns in real-time, ensuring swift attention to high-priority issues.
 
     Data-Driven Insights: An AI chatbot using a pandas agent generates valuable insights from complaint data stored in Firebase, aiding in informed decision-making.
