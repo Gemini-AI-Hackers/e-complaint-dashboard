@@ -21,7 +21,7 @@ Our innovative application leverages cutting-edge AI technology to bridge the ga
     AI-Powered Chatbot: Utilizing the Gemini API, we've developed an intelligent chatbot accessible through WhatsApp, allowing residents to easily submit complaints and queries.
 
     Multilingual Support: The platform supports native languages like Zulu, enhancing accessibility for a diverse population.
-    
+
     Contextual Suggestions: Gemini analyzes chat history stored in Firebase to provide personalized, context-based suggestions to users.
 
 #### For Municipal Officials
@@ -39,3 +39,5 @@ Our innovative application leverages cutting-edge AI technology to bridge the ga
     WhatsApp Integration: Provides a familiar and accessible interface for citizens to interact with the AI chatbot.
 
 This platform not only streamlines the complaint submission process but also empowers both citizens and officials to collaboratively address urban challenges, fostering a more responsive and efficient municipal management system
+
+Link to whatsapp repository: https://github.com/Gemini-AI-Hackers/Durban-Municipality-Chatbot
