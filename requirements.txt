@@ -1,0 +1,11 @@
+firebase-admin
+streamlit
+requests
+numpy==1.26.4
+pandas==1.5.3
+streamlit-on-Hover-tabs
+pandasai==2.0.28
+google-generativeai==0.4.1
+seaborn
+matplotlib
+wordcloud
